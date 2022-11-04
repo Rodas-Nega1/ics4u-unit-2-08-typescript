@@ -1,1 +1,1 @@
-# ics4u-unit-2-08-typescript-
+# ics4u-unit-2-08-typescript
